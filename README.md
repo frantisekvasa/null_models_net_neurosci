@@ -36,7 +36,7 @@ Implementations of randomization and generative null models for network neurosci
 
 * neofunkatron (https://github.com/neofunkatron/neofunkatron)
 
-## Matlab
+## MATLAB
 
 ### Randomization
 
