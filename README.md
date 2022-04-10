@@ -28,6 +28,8 @@ Implementations of randomization and generative null models for network neurosci
 
 #### Correlation matrices (HQS algorithm / configuration model) 
 
+* spatiotemporal (https://github.com/mwshinn/spatiotemporal)
+
 * scola (https://github.com/skojaku/scola)
 
 ### Generative models
@@ -35,6 +37,10 @@ Implementations of randomization and generative null models for network neurosci
 #### Edges
 
 * neofunkatron (https://github.com/neofunkatron/neofunkatron)
+
+#### Time-series
+
+* spatiotemporal (https://github.com/mwshinn/spatiotemporal)
 
 ## MATLAB
 
