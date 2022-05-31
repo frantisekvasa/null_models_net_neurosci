@@ -1,6 +1,8 @@
 # Null models in network neuroscience
 
-Implementations of randomization and generative null models for network neuroscience, in Python, MATLAB and R.
+Implementations of randomization and generative null models for network neuroscience, in Python, MATLAB and R. 
+
+The "live" version of Supplementary Table 1 in [**Null models in network neuroscience**](https://www.nature.com/articles/s41583-022-00601-9) by František Váša & Bratislav Mišić.
 
 ## Python
 
